@@ -1,0 +1,10 @@
+MarkDown  ---   轻量化文本标记语言
+
+打开侧边预览
+在VS中“Right Click”打开“命令面板”
+输入：
+Markdown: Open Preview to the Side
+
+
+MarkDown 给文字加底纹
+https://blog.csdn.net/qq_43732429/article/details/108034518
